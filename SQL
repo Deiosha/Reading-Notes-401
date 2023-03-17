@@ -1,0 +1,4 @@
+### SQL
+
+SQL is a programming tool that allows you to process and store information in a database.
+
