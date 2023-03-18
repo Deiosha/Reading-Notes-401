@@ -5,7 +5,7 @@ SQL is a programming tool that allows you to process and store information in a 
 Sreenshots:
 
 * [Screen Shot1](/1.png)
-* [Screen Shot1](/2.png)
+* [Screen Shot2gi](/2.png)
 * [Screen Shot1](/3.png)
 * [Screen Shot1](/4.png)
 * [Screen Shot1](/5.png)
