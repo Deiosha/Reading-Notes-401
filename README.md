@@ -2,11 +2,11 @@
 
 # Reading Notes
 
-* [SQL](/SQL.md)
-* [Read: Class 01](/Read%3A%20Class%2001.md)
-* [Prep: Practice in the Terminal:](/Prep%3A%20Practice%20in%20the%20Terminal.md)
-* [Data Structures and Algorithms:](/Data%20Structures%20and%20Algorithms.md)
-* [Engineering Readings](/Engineering%20Readings.md)
+* [SQL](/401/SQL.md)
+* [Read: Class 01](/401/Read%3A%20Class%2001.md)
+* [Prep: Practice in the Terminal:](/401/Prep%3A%20Practice%20in%20the%20Terminal.md)
+* [Data Structures and Algorithms:](/401/Data%20Structures%20and%20Algorithms.md)
+* [Engineering Readings](/401/Engineering%20Readings.md)
 
 This website is about all the excellent readings I have learned throughout my 301 course.
 
