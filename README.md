@@ -2,7 +2,7 @@
 
 # Reading Notes
 
-* [SQL](/Data%20Structures%20and%20Algorithms.md)
+* [SQL](/SQL.md)
 * [Read: Class 01](/Read%3A%20Class%2001.md)
 * [Prep: Practice in the Terminal:](/Prep%3A%20Practice%20in%20the%20Terminal.md)
 * [Data Structures and Algorithms:](/Data%20Structures%20and%20Algorithms.md)
