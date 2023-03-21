@@ -7,6 +7,7 @@
 * [Prep: Practice in the Terminal:](/401/Prep%3A%20Practice%20in%20the%20Terminal.md)
 * [Data Structures and Algorithms:](/401/Data%20Structures%20and%20Algorithms.md)
 * [Engineering Readings](/401/Engineering%20Readings.md)
+* [Read: Class 02](/401/Read%3A%20Class%2002.md)
 
 This website is about all the excellent readings I have learned throughout my 301 course.
 
