@@ -9,8 +9,7 @@
 * [Engineering Readings](/401/Engineering%20Readings.md)
 * [Read: Class 02](/401/Read%3A%20Class%2002.md)
 * [Read: Class 03](/401/Read%3A%20Class%2003.md)
-
-
+* [Read: Class 04](/401/Read%3A%20Class%2004.md)
 
 This website is about all the excellent readings I have learned throughout my 301 course.
 
