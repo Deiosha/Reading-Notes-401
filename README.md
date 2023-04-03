@@ -1,6 +1,6 @@
-## Code-401---Advanced-Software-Development
+# Code-401---Advanced-Software-Development
 
-# Reading Notes
+## Reading Notes
 
 * [SQL](/401/SQL.md)
 * [Read: Class 01](/401/Read%3A%20Class%2001.md)
@@ -10,6 +10,7 @@
 * [Read: Class 02](/401/Read%3A%20Class%2002.md)
 * [Read: Class 03](/401/Read%3A%20Class%2003.md)
 * [Read: Class 04](/401/Read%3A%20Class%2004.md)
+* [Read: Class 06](/401/Read%3A%20Class%2006.md)
 
 This website is about all the excellent readings I have learned throughout my 301 course.
 
