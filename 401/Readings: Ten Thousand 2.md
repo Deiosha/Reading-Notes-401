@@ -1,3 +1,5 @@
+# Readings: Ten Thousand 2
+
 Explain the concept of variable scope in Python and describe the difference between local and global scope. Provide an example illustrating the usage of both.
 Variable scope is part of a program where a variable is visual and attainable. Variables can have local or global scope, which specifies where they can be accessed and changed. The difference between local and global scope is local scope refers to variables that are represented within a function or block of code. In comparison, global scope is the names that you define in this scope are available to all your code.
 
