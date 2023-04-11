@@ -12,7 +12,7 @@
 * [Read: Class 04](/401/Read%3A%20Class%2004.md)
 * [Read: Class 06](/401/Read%3A%20Class%2006.md)
 * [Read: Readings: Ten Thousand 2](/401/Readings%3A%20Ten%20Thousand%202.md)
-
+* [Read: Class 08](/401/Read%3A%20Class%2008.md)
 
 This website is about all the excellent readings I have learned throughout my 301 course.
 
