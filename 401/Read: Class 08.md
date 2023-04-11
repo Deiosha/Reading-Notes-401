@@ -17,3 +17,7 @@ Decorators can add functionality to existing functions, classes, or methods. Dec
 upper_case = [ letter.upper() for letter in ['a','b','c'] ]
 print(lower_case, upper_case)
 OUTPUT: ['a', 'b', 'c'] ['A', 'B', 'C']
+
+## Things I want to know more about
+
+How can we use conditional statements with list comprehension to filter elements in a list?
