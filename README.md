@@ -14,6 +14,7 @@
 * [Read: Readings: Ten Thousand 2](/401/Readings%3A%20Ten%20Thousand%202.md)
 * [Read: Class 08](/401/Read%3A%20Class%2008.md)
 * [Read: Class 09](/401/Read%3A%20Class%2009.md)
+* [Read: Stacks & Queues](/401/Read%3A%20Stacks%20%26%20Queues.md)
 
 This website is about all the excellent readings I have learned throughout my 301 course.
 
