@@ -16,6 +16,7 @@
 * [Read: Class 09](/401/Read%3A%20Class%2009.md)
 * [Read: Stacks & Queues](/401/Read%3A%20Stacks%20%26%20Queues.md)
 * [Read: Class 11](/401/Read%3A%20Class%2011.md)
+* [Read: Class 12](/401/Read%3A%20Class%2012.md)
 
 This website is about all the excellent readings I have learned throughout my 301 course.
 
