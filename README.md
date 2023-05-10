@@ -19,6 +19,8 @@
 * [Read: Class 12](/401/Read%3A%20Class%2012.md)
 * [Read: Class 13](/401/Read%3A%20Class%2013.md)
 * [Read: Class 14](/401/Read%3A%20Class%2014.md)
+* [Read: Class 16](/401/Read%3A%20Class%2016.md)
+
 
 This website is about all the excellent readings I have learned throughout my 301 course.
 
