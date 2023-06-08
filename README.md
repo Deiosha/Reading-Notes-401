@@ -23,6 +23,8 @@
 * [Read: Class 17](/401/Read%3A%20Class%2017.md)
 * [Read: Class 18](/401/Read%3A%20Class%2018.md)
 * [Read: Class 19](/401/Read%3A%20Class%2019.md)
+* [Read: Class 26](/401/Read%3A%20Class%2026.md)
+
 
 This website is about all the excellent readings I have learned throughout my 301 course.
 
