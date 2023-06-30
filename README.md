@@ -28,6 +28,7 @@
 * [Read: Class 28](/401/Read%3A%20Class%2028.md)
 * [Read: Class 29](/401/Read%3A%20Class%2029.md)
 * [Read: Class 31](/401/Read%3A%20Class%2031.md)
+* [Read: Class 32](/401/Read%3A%20Class%2032.md)
 
 This website is about all the excellent readings I have learned throughout my 301 course.
 
