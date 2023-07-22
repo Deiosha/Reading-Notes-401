@@ -33,6 +33,7 @@
 * [Read: Class 34](/401/Read%3A%20Class%2034.md)
 * [Read: Class 36](/401/Read:%20Class%2036.md)
 * [Read: Class 37](/401/Read:%20Class%2037.md)
+* [Read: Class 38](/401/Read:%20Class%2038.md)
 
 This website is about all the excellent readings I have learned throughout my 301 course.
 
