@@ -1,0 +1,3 @@
+# Read: Class 43 - OSS Contributions
+
+From this article, I retain understandings and ideas connected to open-source software and its importance for developers. I comprehend what open-source software is and how many people create it. I also Learn about the reasons that cause people, especially developers, to play a role in open-sourcing projects. The reading also talked about the Career Benefits of comprehending how contributing to these projects can improve our employability by displaying my skills. This article supplies a complete summary of the reasons, advantages, and influence of contributing to OSS. It emphasizes the possibilities for skill growth and career progress.
